@@ -1,0 +1,1 @@
+﻿new SharpApple.EmulatorMain().Run();
